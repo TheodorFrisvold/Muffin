@@ -10,6 +10,6 @@
     <h2>The lineolated parakeet</h2>
     <p>Up to mischief</p>
     <p>And screams at the kettle</p>
-    ![IMG_20200310_185510_377](https://user-images.githubusercontent.com/84009244/117815061-5a381d00-b265-11eb-9326-732c0350f740.jpg)
+    <img src="https://www.miljolare.no/innsendt/bilder/vedlegg/21943/603c0e5f448c9/thumb/e_rubecula_280_1e0/320x240.jpg" width="320" height="240"
 </body>
 </html>
