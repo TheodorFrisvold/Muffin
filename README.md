@@ -10,6 +10,6 @@
     <h2>The lineolated parakeet</h2>
     <p>Up to mischief</p>
     <p>And screams at the kettle</p>
-    <img src="IMG_20200310_185510_377.jpg" width="267" height="267"
+    ![IMG_20200310_185510_377](https://user-images.githubusercontent.com/84009244/117815061-5a381d00-b265-11eb-9326-732c0350f740.jpg)
 </body>
 </html>
